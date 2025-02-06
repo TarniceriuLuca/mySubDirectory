@@ -17,4 +17,4 @@ Aplicatia permite adaugarea abonamentelor, caracterizate de nume, pret, data ada
 ## Arhitectura
 
 
-![diagramaClase](diagramaClase.jpeg)
+![diagramaClase](classDiagram.png)
