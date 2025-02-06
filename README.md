@@ -17,4 +17,4 @@ Aplicatia permite adaugarea abonamentelor, caracterizate de nume, pret, data ada
 ## Arhitectura
 
 
-![diagramaClase](https://github.com/TarniceriuLuca/mySubDirectory.git/classDiagram.png)
+![diagramaClase](diagramaClase.jpeg)
