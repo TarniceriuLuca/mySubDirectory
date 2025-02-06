@@ -18,7 +18,7 @@ Aplicatia permite adaugarea abonamentelor, caracterizate de nume, pret, data ada
 ## Arhitectura
 
 
-![diagramaClase](https://github.com/Programare-III-2024-2025/p3-proiect-gr8-TarniceriuLuca/blob/main/diagramaClase.jpeg)
+![diagramaClase](https://github.com/Programare-III-2024-2025/p3-proiect-gr8-TarniceriuLuca/blob/main/classDiagram.png)
 
 
 
